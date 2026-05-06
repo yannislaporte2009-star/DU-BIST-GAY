@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<htmllang="de">
-    <head>
-        <mete charset="UTF-8">
-        <title>Du bist gay</title>
-        <link rel="stylesheet" href="format.css" type="text/css">
-        
-        
-    </head>
-    <body>
-        <p>
-            gay
-        </p>
-       
-       
-        
-    </body>
-</htmllang>
+DU Bist GAY
